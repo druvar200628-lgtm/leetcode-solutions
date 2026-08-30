@@ -9,66 +9,65 @@ public:
                 neg.push_back(nums[i]);
             }
             else{
-                pos.push_back(nums[i]); // fixed ;) -> );
+                pos.push_back(nums[i]);
             }
-        } // <-- added this } you missed, so loop ends here
-
-        if(neg.size() == 0){
-            for(int i = 0 ; i<pos.size(); i++){
-                pos[i] = pos[i] * pos[i];
-            }
-            return pos; // <-- moved outside for loop
         }
+        if(neg.size() == 0){
+                for(int i = 0 ; i<pos.size(); i++){
+                    pos[i] = pos[i] * pos[i];
+                    
+                }
+                return pos;
+            }
         if(pos.size() == 0){
-            for(int i = 0 ; i<neg.size(); i++){
-                neg[i] = neg[i] * neg[i];
+                for(int i = 0 ; i<neg.size(); i++){
+                    neg[i] = neg[i] * neg[i];
+                    
+                }
+                reverse(neg.begin(),neg.end());
+                return neg;
+            }    
+            int i = 0;
+            int j = 0 , id = 0;
+            int n = neg.size();
+            int m = pos.size();
+            vector<int> res(n+m);
+
+            for(i = 0;i < n;i++){
+            neg[i] = neg[i]*neg[i];
             }
             reverse(neg.begin(),neg.end());
-            return neg;
-        }
+            
+            for(j = 0;j<m;j++)
+            pos[j] = pos[j]*pos[j];
+            i =0,j=0;
 
-        int i = 0;
-        int j = 0, id = 0;
-        int n = neg.size();
-        int m = pos.size();
-        vector<int> res(n+m);
-
-        for(i = 0;i < n;i++){
-            neg[i] = neg[i]*neg[i];
-        }
-        reverse(neg.begin(),neg.end()); // added ;
-
-        for(j = 0;j<m;j++){
-            pos[j] = pos[j]*pos[j]; // fixed pos[i] -> pos[j]
-        }
-
-        // reset i,j for merging because you used them above
-        i = 0;
-        j = 0;
-
-        while(i<n && j<m){
-            if(neg[i] <= pos[j]){
+            while(i<n && j<m){
+                if(neg[i] <= pos[j]){
+                    res[id] = neg[i];
+                    id++;
+                    i++;
+                }
+                else{
+                    res[id] = pos[j];
+                    id++;
+                    j++;
+                }
+            }
+            while(i < n){
                 res[id] = neg[i];
-                id++;
-                i++;
+                    id++;
+                    i++;
             }
-            else{
-                res[id] = pos[j];
-                id++;
-                j++; // added ;
+            while(j < m){
+                 res[id] = pos[j];
+                    id++;
+                    j++;
             }
-        }
-        while(i < n){
-            res[id] = neg[i];
-            id++;
-            i++;
-        }
-        while(j < m){
-             res[id] = pos[j];
-             id++;
-             j++; // added ;
-        }
-
-        return res; // added ;
+            
+        return res;     
+        
+        
+        
     }
 };
