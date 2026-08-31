@@ -6,6 +6,7 @@ my leet code solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -14,6 +15,7 @@ my leet code solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -34,6 +36,7 @@ my leet code solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
