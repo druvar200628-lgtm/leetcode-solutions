@@ -9,6 +9,7 @@ my leet code solutions
 | [0015-3sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -19,6 +20,7 @@ my leet code solutions
 | [0015-3sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -40,6 +42,7 @@ my leet code solutions
 | ------- | ------- |
 | [0015-3sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
@@ -66,4 +69,12 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
