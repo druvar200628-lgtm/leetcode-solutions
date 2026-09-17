@@ -12,6 +12,7 @@ my leet code solutions
 | [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -28,6 +29,7 @@ my leet code solutions
 | [0141-linked-list-cycle](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -35,6 +37,7 @@ my leet code solutions
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
@@ -116,4 +119,13 @@ my leet code solutions
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
