@@ -9,6 +9,7 @@ my leet code solutions
 | [0015-3sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -77,6 +78,7 @@ my leet code solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -132,4 +134,8 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
