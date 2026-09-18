@@ -19,6 +19,7 @@ my leet code solutions
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Two Pointers
@@ -84,6 +85,7 @@ my leet code solutions
 | [0152-maximum-product-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
