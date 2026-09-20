@@ -10,7 +10,7 @@ public:
         for(int i = 0; i < n; i++){
             sum += nums[i];
             
-            if(mp.find(sum - k)!= mp.end()){
+            if(mp.count(sum-k)){
                 count += mp[sum - k];
             }
             mp[sum]++;
