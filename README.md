@@ -24,6 +24,7 @@ my leet code solutions
 | [0918-maximum-sum-circular-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -44,6 +45,7 @@ my leet code solutions
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0986-interval-list-intersections/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,4 +172,8 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
