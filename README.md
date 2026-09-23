@@ -20,6 +20,7 @@ my leet code solutions
 | [0525-contiguous-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -182,9 +183,14 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
