@@ -116,6 +116,7 @@ my leet code solutions
 | [0076-minimum-window-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +177,8 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0986-interval-list-intersections/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
