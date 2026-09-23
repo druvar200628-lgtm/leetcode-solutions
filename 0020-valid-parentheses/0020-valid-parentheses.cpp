@@ -11,15 +11,10 @@ public:
                 if(st.empty()){
                     return false;
                 }
-                if(st.top() == '(' && c == ')'){
+                if(st.top() == '(' && c == ')' || st.top() == '{' && c == '}' || st.top() == '[' && c == ']'){
                     st.pop();
                 }
-                else if(st.top() == '{' && c == '}'){
-                    st.pop();
-                }
-                else if(st.top() == '[' && c == ']'){
-                    st.pop();
-                }
+                
                 else{
                     return false;
                 }
