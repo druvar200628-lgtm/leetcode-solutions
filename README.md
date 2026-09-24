@@ -120,6 +120,7 @@ my leet code solutions
 | [0125-valid-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ my leet code solutions
 | [0503-next-greater-element-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
