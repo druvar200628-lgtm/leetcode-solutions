@@ -59,6 +59,7 @@ my leet code solutions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0409-longest-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ my leet code solutions
 | [0125-valid-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0383-ransom-note](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -143,6 +145,7 @@ my leet code solutions
 | [0202-happy-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0383-ransom-note](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
