@@ -65,9 +65,7 @@ void reverse(node* head,int times){
                 break;
             }
 
-        }
-         
-        return res;
-        
+        }         
+        return res;        
     }
 };
