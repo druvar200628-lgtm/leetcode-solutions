@@ -156,6 +156,7 @@ my leet code solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
