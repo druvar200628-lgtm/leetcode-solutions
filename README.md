@@ -109,6 +109,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -159,6 +160,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
