@@ -38,6 +38,7 @@ my leet code solutions
 | [0015-3sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0061-rotate-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -158,6 +159,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
