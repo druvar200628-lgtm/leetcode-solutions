@@ -15,6 +15,7 @@ my leet code solutions
 | [0057-insert-interval](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -56,6 +57,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
