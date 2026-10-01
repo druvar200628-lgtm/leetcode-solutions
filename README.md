@@ -27,6 +27,7 @@ my leet code solutions
 | [0724-find-pivot-index](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -65,6 +66,7 @@ my leet code solutions
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
