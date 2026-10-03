@@ -20,6 +20,7 @@ my leet code solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
@@ -65,6 +66,7 @@ my leet code solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -200,6 +202,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -245,4 +248,5 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
