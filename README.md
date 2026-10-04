@@ -20,6 +20,7 @@ my leet code solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -97,6 +98,7 @@ my leet code solutions
 | [0016-3sum-closest](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -205,6 +207,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
@@ -256,5 +259,10 @@ my leet code solutions
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
