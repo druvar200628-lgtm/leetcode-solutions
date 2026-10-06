@@ -28,6 +28,7 @@ my leet code solutions
 | [0503-next-greater-element-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -102,6 +103,7 @@ my leet code solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
@@ -150,6 +152,7 @@ my leet code solutions
 | [0387-first-unique-character-in-a-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -177,6 +180,7 @@ my leet code solutions
 | [0424-longest-repeating-character-replacement](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -250,6 +254,7 @@ my leet code solutions
 | [0347-top-k-frequent-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -267,6 +272,7 @@ my leet code solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,4 +282,9 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
