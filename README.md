@@ -28,6 +28,7 @@ my leet code solutions
 | [0503-next-greater-element-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -59,6 +60,7 @@ my leet code solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0986-interval-list-intersections/) | Medium |
@@ -74,6 +76,7 @@ my leet code solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -91,6 +94,7 @@ my leet code solutions
 | [0076-minimum-window-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -104,6 +108,7 @@ my leet code solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -276,6 +281,7 @@ my leet code solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
