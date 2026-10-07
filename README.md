@@ -43,6 +43,7 @@ my leet code solutions
 | [0986-interval-list-intersections](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -81,6 +82,7 @@ my leet code solutions
 | [0852-peak-index-in-a-mountain-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -112,6 +114,7 @@ my leet code solutions
 | [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -275,6 +278,7 @@ my leet code solutions
 | [0074-search-a-2d-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +288,7 @@ my leet code solutions
 | [0658-find-k-closest-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
