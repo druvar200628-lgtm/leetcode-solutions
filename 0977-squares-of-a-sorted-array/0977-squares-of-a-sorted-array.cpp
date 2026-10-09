@@ -12,14 +12,14 @@ public:
                 pos.push_back(nums[i]);
             }
         }
-        if(neg.size() == 0){
+        if(neg.empty()){
                 for(int i = 0 ; i<pos.size(); i++){
                     pos[i] = pos[i] * pos[i];
                     
                 }
                 return pos;
             }
-        if(pos.size() == 0){
+        if(pos.empty()){
                 for(int i = 0 ; i<neg.size(); i++){
                     neg[i] = neg[i] * neg[i];
                     
