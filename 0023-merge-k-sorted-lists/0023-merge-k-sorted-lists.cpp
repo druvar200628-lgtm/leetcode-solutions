@@ -22,7 +22,7 @@ public:
 
        
         for(int i = 0; i < n; i++){
-            if(lists[i]!= NULL){
+            if(lists[i]){
                 pq.push({lists[i]->val, i, 0});
             }
         }
