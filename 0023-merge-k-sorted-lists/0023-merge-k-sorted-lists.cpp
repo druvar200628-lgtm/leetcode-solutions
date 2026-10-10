@@ -42,7 +42,7 @@ public:
             lists[r] = lists[r]->next; 
 
            
-            if(lists[r]!= NULL){
+            if(lists[r]){
                 pq.push({lists[r]->val, r, 0});
             }
         }
