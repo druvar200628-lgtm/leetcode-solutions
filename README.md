@@ -146,6 +146,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -169,6 +170,7 @@ my leet code solutions
 | [0020-valid-parentheses](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0383-ransom-note](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
@@ -347,4 +349,5 @@ my leet code solutions
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
