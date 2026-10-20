@@ -71,6 +71,7 @@ my leet code solutions
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0844-backspace-string-compare](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0986-interval-list-intersections/) | Medium |
@@ -189,6 +190,7 @@ my leet code solutions
 | [0567-permutation-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -282,6 +284,7 @@ my leet code solutions
 | [0143-reorder-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Bracket Sequences
@@ -365,4 +368,8 @@ my leet code solutions
 | [0039-combination-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
