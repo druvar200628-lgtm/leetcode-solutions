@@ -150,6 +150,7 @@ my leet code solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0202-happy-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -166,6 +167,7 @@ my leet code solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
@@ -228,6 +230,7 @@ my leet code solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
