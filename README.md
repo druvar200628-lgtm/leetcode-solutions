@@ -171,6 +171,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
@@ -235,6 +236,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
