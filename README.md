@@ -14,6 +14,7 @@ my leet code solutions
 | [0027-remove-element](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -83,6 +84,7 @@ my leet code solutions
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
