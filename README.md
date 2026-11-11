@@ -59,6 +59,7 @@ my leet code solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0018-4sum/) | Medium |
@@ -164,6 +165,7 @@ my leet code solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -189,6 +191,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -385,4 +388,8 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
