@@ -164,6 +164,7 @@ my leet code solutions
 | [0002-add-two-numbers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0202-happy-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -272,6 +273,7 @@ my leet code solutions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
