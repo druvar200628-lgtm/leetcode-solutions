@@ -22,6 +22,7 @@ my leet code solutions
 | [0053-maximum-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
+| [0066-plus-one](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -165,6 +166,7 @@ my leet code solutions
 | [0007-reverse-integer](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0066-plus-one](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
