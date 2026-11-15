@@ -167,6 +167,7 @@ my leet code solutions
 | [0009-palindrome-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -206,6 +207,7 @@ my leet code solutions
 | [0022-generate-parentheses](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -279,6 +281,7 @@ my leet code solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -404,6 +407,7 @@ my leet code solutions
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0844-backspace-string-compare](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
