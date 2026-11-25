@@ -168,6 +168,7 @@ my leet code solutions
 | [0002-add-two-numbers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
@@ -205,6 +206,7 @@ my leet code solutions
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
@@ -240,6 +242,7 @@ my leet code solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/druvar200628-lgtm/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
